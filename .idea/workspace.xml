@@ -1,68 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AndroidLayouts">
-    <shared>
-      <config />
-    </shared>
-  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2953adb-961d-409e-b15e-4307f84dc97f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/app/src/androidTest/java/com/example/roomdemov2/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/app/src/main/java/com/example/roomdemov2/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/app/src/main/java/com/example/roomdemov2/data/UserDao.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/app/src/main/java/com/example/roomdemov2/data/UserDatabase.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/app/src/main/java/com/example/roomdemov2/model/Trip.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/app/src/main/java/com/example/roomdemov2/model/User.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/app/src/main/java/com/example/roomdemov2/repository/UserRepo.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/app/src/main/java/com/example/roomdemov2/viewModel/UserViewModel.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/app/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/app/src/test/java/com/example/roomdemov2/ExampleUnitTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoomDemoV2/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDemo/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/RoomDemo/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDemo/app/src/main/java/com/example/roomdemo/fragments/list/ListFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/RoomDemo/app/src/main/java/com/example/roomdemo/fragments/list/ListFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDemo/app/src/main/res/layout/fragment_add.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RoomDemo/app/src/main/res/layout/fragment_add.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDemo/app/src/main/res/layout/fragment_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RoomDemo/app/src/main/res/layout/fragment_list.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDemo/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RoomDemo/app/src/main/res/values/strings.xml" afterDir="false" />
+    <list default="true" id="04da0ee2-4e67-48c5-9a7d-fec643d4b0b2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +31,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2Ia00tIWlHtnTeNgR7lG3Lv6ML3" />
+  <component name="ProjectId" id="2IbsVcZ66uux6ugBfzdfoCKpQTX" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -94,7 +44,7 @@
   </component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
-      <module name="Application.app.main" />
+      <module name="GroupAssignment.app.main" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
@@ -156,11 +106,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b2953adb-961d-409e-b15e-4307f84dc97f" name="Changes" comment="" />
-      <created>1670404166691</created>
+      <changelist id="04da0ee2-4e67-48c5-9a7d-fec643d4b0b2" name="Changes" comment="" />
+      <created>1670461642409</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1670404166691</updated>
+      <updated>1670461642409</updated>
     </task>
     <servers />
   </component>
