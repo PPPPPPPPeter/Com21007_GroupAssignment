@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">GroupAssignment</string>
+    <string name="photos">Photos</string>
+    <string name="search_photos">Search Photos</string>
+    <string name="Photos" >Photos</string>
+    <string name="Search" >Search</string>
+    <string name="upload">Upload</string>
+    <string name="camera">Camera</string>
+    <string name="my_trips">My Trips</string>
 </resources>

@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuPhotos"
+        android:icon="@drawable/ic_photo"
+        android:title="@string/Photos"/>
+
+    <item
+        android:id="@+id/menuSearchphotos"
+        android:icon="@drawable/ic_image_search"
+        android:title="@string/Search"/>
+
+    <item
+        android:id="@+id/menuUpload"
+        android:icon="@drawable/ic_upload"
+        android:title="@string/upload"/>
+
+    <item
+        android:id="@+id/menuCamera"
+        android:icon="@drawable/ic_camera"
+        android:title="@string/camera"/>
+    <item
+        android:id="@+id/menuTrips"
+        android:icon="@drawable/ic_map"
+        android:title="@string/my_trips"/>
 
 
 
