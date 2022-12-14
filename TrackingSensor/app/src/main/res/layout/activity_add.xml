@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toobar"
+        app:title="Add Photo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+
+            <EditText
+                android:id="@+id/ed_title"
+                android:hint="Input Title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginHorizontal="20dp" />
+            <EditText
+                android:id="@+id/ed_describe"
+                android:hint="Input Describe"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginHorizontal="20dp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_marginTop="20dp"
+                android:text="Upload"
+
+                android:layout_marginBottom="10dp"
+                android:layout_height="wrap_content">
+                <Button
+                    android:id="@+id/btn_select_photo"
+                    android:layout_weight="1"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_width="0dp"
+                    android:text="Select Photo"
+                    android:textColor="#fff"
+                    android:textAllCaps="false"
+                    android:layout_height="wrap_content"/>
+                <Button
+                    android:id="@+id/btn_take_photo"
+                    android:layout_weight="1"
+                    android:textColor="#fff"
+                    android:textAllCaps="false"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_width="0dp"
+                    android:text="Take Photo"
+                    android:layout_height="wrap_content"/>
+
+            </LinearLayout>
+            <Button
+                android:id="@+id/btn_upload"
+                android:layout_width="match_parent"
+                android:text="Upload"
+                android:layout_marginHorizontal="20dp"
+                android:textColor="#fff"
+
+                android:textAllCaps="false"
+                android:layout_marginBottom="10dp"
+                android:layout_height="wrap_content"/>
+            <ImageView
+                android:id="@+id/iv_photo"
+                android:layout_width="match_parent"
+                android:scaleType="fitCenter"
+                android:layout_height="250dp"/>
+        </LinearLayout>
+
+
+
+    </ScrollView>
+</LinearLayout>
